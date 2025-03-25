@@ -1,0 +1,34 @@
+# Ignore model files and large datasets
+/models/
+*.h5
+*.pkl
+
+# Ignore dataset files (if large)
+!/data/k8s_test_data.csv  # Keep test data
+/data/k8s_large_dataset.csv
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+.env
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project-specific files
+.vscode/
+.idea/
+*.iml
