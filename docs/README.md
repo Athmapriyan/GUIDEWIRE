@@ -41,6 +41,7 @@ This project focuses on predicting Kubernetes system failures using deep learnin
 
 ### **2. Provided Dataset**(RECOMMENDED)
 A large dataset (`k8s_large_dataset.csv`) is included in the `/data` directory.
+https://drive.google.com/drive/folders/18ggeRfdxg8IwaX3n8h-1kMRhaBHJ5X-I?usp=drive_link
 
 ## 🧑‍💻 Installation
 1. **Install dependencies:**
