@@ -71,9 +71,6 @@ https://drive.google.com/drive/folders/18ggeRfdxg8IwaX3n8h-1kMRhaBHJ5X-I?usp=dri
 - Achieved **MAE of ~2.5%** on test data.
 - Can help **prevent downtime** in Kubernetes environments.
 
-## 📽️ Demo
-
-
 ## 🤝 Contributing
 Feel free to submit issues and pull requests to improve this project!
 
